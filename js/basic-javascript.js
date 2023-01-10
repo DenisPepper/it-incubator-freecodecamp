@@ -142,3 +142,10 @@ const myDecimal = 3.14
 
 /* Change the 0.0 so that product will equal 5.0. */
 const product1 = 2.0 * 2.5;
+
+
+
+
+
+/* Change the 0.0 so that quotient will equal to 2.2. */
+const quotient = 4.4 / 2.0; // Change this line
