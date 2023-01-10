@@ -27,3 +27,8 @@ b = a;
 
 /* 005 Define a variable a with var and initialize it to a value of 9. */
 var a = 9;
+
+
+/* 006 Create two new string variables: myFirstName and myLastName and assign them the values of your first and last name, respectively. */
+const myFirstName = "D" 
+const myLastName = "P" 
