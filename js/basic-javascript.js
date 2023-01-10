@@ -134,3 +134,11 @@ const ourDecimal = 5.7;
 
 // Only change code below this line
 const myDecimal = 3.14
+
+
+
+
+
+
+/* Change the 0.0 so that product will equal 5.0. */
+const product1 = 2.0 * 2.5;
