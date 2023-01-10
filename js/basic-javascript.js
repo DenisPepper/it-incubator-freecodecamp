@@ -5,3 +5,11 @@ Variable names can be made up of numbers, letters, and $ or _, but may not conta
 var myName;
 
 
+/* 003 Assign the value 7 to variable a. */
+
+// Setup
+var a;
+
+// Only change code below this line
+
+a = 7;
