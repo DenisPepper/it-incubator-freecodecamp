@@ -23,3 +23,7 @@ var b;
 
 // Only change code below this line
 b = a;
+
+
+/* 005 Define a variable a with var and initialize it to a value of 9. */
+var a = 9;
