@@ -398,3 +398,15 @@ Create a variable called myData and set it to equal the first value of myArray u
 const myArray2 = [50, 60, 70];
 
 const myData = myArray2[0];
+
+
+
+
+/*
+Modify the data stored at index 0 of myArray to a value of 45.
+*/
+// Setup
+const myArray3 = [18, 64, 99];
+
+// Only change code below this line
+myArray3[0] = 45;
