@@ -354,3 +354,19 @@ const lastName55 = "Lovelace";
 
 // Only change code below this line
 const secondToLastLetterOfLastName = lastName55[lastName55.length - 2]; // Change this line
+
+
+
+
+/*
+In this challenge, we provide you with a noun, a verb, an adjective and an adverb. 
+You need to form a complete sentence using words of your choice, along with the words we provide.
+*/
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+// Only change code below this line
+const wordBlanks = myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb; // Change this line
+// Only change code above this line
