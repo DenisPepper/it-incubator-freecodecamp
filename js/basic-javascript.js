@@ -319,3 +319,14 @@ let myStr22 = "Jello World";
 // Only change code below this line
 myStr22 = "Hello World"; // Change this line
 // Only change code above this line
+
+
+
+/*
+Let's try to set thirdLetterOfLastName to equal the third letter of the lastName variable using bracket notation.
+*/
+// Setup
+const lastName33 = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName33[2]; // Change this line
