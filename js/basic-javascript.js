@@ -228,3 +228,16 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 const myStr = "<a href=\"http://www.example.com\" target=\"_blank\">Link</a>";
 */
 const myStr1 = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+
+
+/*
+Assign the following three lines of text into the single variable myStr using escape sequences.
+
+FirstLine
+    \SecondLine
+ThirdLine
+You will need to use escape sequences to insert special characters correctly. 
+You will also need to follow the spacing as it looks above, with no spaces between escape sequences or words. 
+*/
+const myStr2 = "FirstLine\n\t\\SecondLine\nThirdLine";
