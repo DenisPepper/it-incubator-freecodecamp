@@ -489,3 +489,13 @@ myList.push(['bread', 0]);
 myList.push(['milk', 0]);
 myList.push(['tomato', 0]);
 myList.push(['potato', 0]);
+
+
+
+
+/*
+1 Create a function called reusableFunction which prints the string Hi World to the dev console.
+2 Call the function.
+*/
+const reusableFunction  = () => console.log('Hi World');
+reusableFunction();
