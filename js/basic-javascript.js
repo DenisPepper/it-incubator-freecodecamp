@@ -509,3 +509,11 @@ Call the function with two numbers as arguments.
 */
 const functionWithArgs = (a = 0, b = 0) => console.log(a + b);
 functionWithArgs(1, 2);
+
+
+
+
+/*
+Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
+*/
+const timesFive = num => num * 5;
