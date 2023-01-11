@@ -476,3 +476,16 @@ myArray.shift();
 
 // Only change code below this line
 myArray8.unshift(["Paul", 35]);
+
+
+
+
+/*
+Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+*/
+const myList = [];
+myList.push(['cofee', 0]);
+myList.push(['bread', 0]);
+myList.push(['milk', 0]);
+myList.push(['tomato', 0]);
+myList.push(['potato', 0]);
