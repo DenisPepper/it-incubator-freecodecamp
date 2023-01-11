@@ -330,3 +330,15 @@ const lastName33 = "Lovelace";
 
 // Only change code below this line
 const thirdLetterOfLastName = lastName33[2]; // Change this line
+
+
+
+
+/*
+Use bracket notation to find the last character in the lastName variable.
+*/
+// Setup
+const lastName44 = "Lovelace";
+
+// Only change code below this line
+const lastLetterOfLastName = lastName44[lastName44.length - 1]; // Change this line
