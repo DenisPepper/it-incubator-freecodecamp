@@ -425,3 +425,16 @@ const myArray4 = [
   ];
   
   const myData1 = myArray4[2][1];
+
+
+
+
+
+/*
+Push ["dog", 3] onto the end of the myArray variable.
+*/
+// Setup
+const myArray5 = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+myArray5.push(["dog", 3]);
