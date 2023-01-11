@@ -379,3 +379,12 @@ Modify the new array myArray so that it contains both a string and a number (in 
 */
 // Only change code below this line
 const myArray = ["str", 0];
+
+
+
+
+/*
+Create a nested array called myArray.
+*/
+// Only change code below this line
+const myArray1 = [["Bulls", 23], ["White Sox", 45]];
