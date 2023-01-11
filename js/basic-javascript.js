@@ -258,3 +258,13 @@ Start by assigning the first string to myStr, then add on the second string.
 */
 let myStr4 = "This is the first sentence.";
 myStr += " This is the second sentence.";
+
+
+
+
+/*
+Set myName to a string equal to your name and build myStr with myName between the strings My name is and and I am well!
+*/
+const myName = "Den";
+const myStr5 = "My name is " + maName + " and I am well!";
+
