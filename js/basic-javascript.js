@@ -588,3 +588,29 @@ function myOutfit() {
 }
 
 myOutfit();
+
+
+
+
+
+
+/*
+Create a function addFive without any arguments. 
+This function adds 5 to the sum variable, but its returned value is undefined.
+*/
+// Setup
+let sum4 = 0;
+
+function addThree() {
+  sum4 = sum4 + 3;
+}
+
+// Only change code below this line
+const addFive = () => {
+  sum4 +=5;
+};
+
+// Only change code above this line
+
+addThree();
+addFive();
