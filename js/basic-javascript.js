@@ -451,3 +451,14 @@ const myArray6 = [["John", 23], ["cat", 2]];
 
 // Only change code below this line
 const removedFromMyArray = myArray6.pop();
+
+
+
+/*
+Use the .shift() function to remove the first item from myArray and assign the "shifted off" value to a new variable, removedFromMyArray.
+*/
+// Setup
+const myArray7 = [["John", 23], ["dog", 3]];
+
+// Only change code below this line
+const removedFromMyArray1 = myArray7.shift();
