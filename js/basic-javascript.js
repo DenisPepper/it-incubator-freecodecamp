@@ -241,3 +241,9 @@ You will need to use escape sequences to insert special characters correctly.
 You will also need to follow the spacing as it looks above, with no spaces between escape sequences or words. 
 */
 const myStr2 = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+
+/*
+Build myStr from the strings This is the start. and This is the end. using the + operator. Be sure to include a space between the two strings.
+*/
+const myStr3 = "This is the start." + " This is the end.";
