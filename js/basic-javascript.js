@@ -438,3 +438,16 @@ const myArray5 = [["John", 23], ["cat", 2]];
 
 // Only change code below this line
 myArray5.push(["dog", 3]);
+
+
+
+
+
+/*
+Use the .pop() function to remove the last item from myArray and assign the popped off value to a new variable, removedFromMyArray.
+*/
+// Setup
+const myArray6 = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+const removedFromMyArray = myArray6.pop();
