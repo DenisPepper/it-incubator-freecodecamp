@@ -388,3 +388,13 @@ Create a nested array called myArray.
 */
 // Only change code below this line
 const myArray1 = [["Bulls", 23], ["White Sox", 45]];
+
+
+
+
+/*
+Create a variable called myData and set it to equal the first value of myArray using bracket notation.
+*/
+const myArray2 = [50, 60, 70];
+
+const myData = myArray2[0];
