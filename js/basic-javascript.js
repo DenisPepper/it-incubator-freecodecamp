@@ -342,3 +342,15 @@ const lastName44 = "Lovelace";
 
 // Only change code below this line
 const lastLetterOfLastName = lastName44[lastName44.length - 1]; // Change this line
+
+
+
+
+/*
+Use bracket notation to find the second-to-last character in the lastName string.
+*/
+// Setup
+const lastName55 = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName = lastName55[lastName55.length - 2]; // Change this line
