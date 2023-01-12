@@ -660,3 +660,15 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 function trueOrFalse(wasThatTrue) {
   return wasThatTrue ? "Yes, that was true" : "No, that was false";
 }
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator
+*/
+function testEqual(val) {
+  if (val === 12) { 
+    return "Equal";
+  }
+  return "Not Equal";
+}
