@@ -720,3 +720,19 @@ function testStrictNotEqual(val) {
   }
   return "Equal";
 }
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator
+*/
+function testGreaterThan(val) {
+  if (val > 100) {  
+    return "Over 100";
+  }
+
+  if (val > 10) { 
+  }
+
+  return "10 or Under";
+}
