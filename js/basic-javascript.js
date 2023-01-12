@@ -1193,3 +1193,19 @@ const testObj2 = {
 // Only change code below this line
 const playerNumber = 16;  // Change this line
 const player = testObj[playerNumber];   // Change this line
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties
+*/
+// Setup
+const myDog1 = {
+  "name": "Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"]
+};
+
+// Only change code below this line
+myDog.name = 'Happy Coder';
