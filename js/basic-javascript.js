@@ -1168,7 +1168,7 @@ const shirtValue = testObj.shirt;    // Change this line
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation
 */
 // Setup
-const testObj = {
+const testObj1 = {
   "an entree": "hamburger",
   "my side": "veggies",
   "the drink": "water"
