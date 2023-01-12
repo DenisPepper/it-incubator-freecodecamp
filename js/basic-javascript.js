@@ -840,3 +840,21 @@ function testElse(val) {
   // Only change code above this line
   return result;
 }
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements
+*/
+function testElseIf(val) {
+  if (val > 10) {
+    return "Greater than 10";
+  }
+
+  else if (val < 5) {
+    return "Smaller than 5";
+  } else {
+
+    return "Between 5 and 10";
+  }
+};
