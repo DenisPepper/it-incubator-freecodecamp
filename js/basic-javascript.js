@@ -632,3 +632,13 @@ function processArg(num) {
 // Only change code below this line
 
 processed = processArg(7);
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line
+*/
+function nextInLine(arr, item) {
+  arr.push(item);
+  return arr.shift();
+}
