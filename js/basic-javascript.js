@@ -642,3 +642,12 @@ function nextInLine(arr, item) {
   arr.push(item);
   return arr.shift();
 }
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values
+*/
+function welcomeToBooleans() {
+  return true; // Change this line
+}
