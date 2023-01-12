@@ -651,3 +651,12 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 function welcomeToBooleans() {
   return true; // Change this line
 }
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements
+*/
+function trueOrFalse(wasThatTrue) {
+  return wasThatTrue ? "Yes, that was true" : "No, that was false";
+}
