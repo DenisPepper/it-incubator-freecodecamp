@@ -1132,3 +1132,18 @@ switch(card) {
 }
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
+
+
+
+/*
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects
+*/
+const myDog = {
+  // Only change code below this line
+name: "Dick",
+legs: 4,
+tails: 4,
+friends: ['1', '2'],
+
+  // Only change code above this line
+};
